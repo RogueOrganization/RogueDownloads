@@ -1,5 +1,7 @@
-# RogueMods
-RogueMods is an **free and open-source** general purpose download portal with additional and optional community functionality such as profiles, forums and messaging. RogueMods was created to distribute modifications and tools for video games.
+# RogueDownloads
+RogueDownloads is an **free and open-source** general purpose download portal with additional and optional community functionality such as profiles, forums and messaging.
+
+RogueDownloads was created to distribute modifications and tools for video games. When this project is ready, you'll be able to see it in action by visiting [RogueMods.com](https://roguemods.com).
 
 # Project Status
 As of Friday, March 25th, 2022, the project is not considered ready for general consumption.
