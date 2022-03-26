@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# RogueDownloads
+RogueDownloads is an **free and open-source** general purpose download portal with additional and optional community functionality such as profiles, forums and messaging.
 
-## Getting Started
+RogueDownloads was created to distribute modifications and tools for video games. When this project is ready, you'll be able to see it in action by visiting [RogueMods.com](https://roguemods.com).
 
-First, run the development server:
+# Project Status
+As of Friday, March 25th, 2022, the project is not considered ready for general consumption.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This repository will update when more concrete information is finalized and more work is done.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Installation
+More details are coming soon, but the pre-requisites currently are:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Node.js v17.8.0
+- Next.js v12.1.0
+- MySQL (v TBD)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# License
+This project and all of its files are licensed under GNU General Public License v3.0. For more information, check out the [license](LICENSE) file.
